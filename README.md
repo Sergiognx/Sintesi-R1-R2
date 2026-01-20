@@ -78,3 +78,9 @@ Il progetto è pensato come supporto didattico per corsi universitari di Control
 ## Autore
 
 Sergio Ginex
+
+## Screenshot
+
+![Interfaccia principale](gui.png)
+![Risposta allo scalino](scalino.png)
+
